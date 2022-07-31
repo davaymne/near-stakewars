@@ -2,8 +2,15 @@
 
 ## Create a wallet
  Follow https://wallet.shardnet.near.org/ to create new wallet.
+ 
+ - Reserve Account ID
+ 
+ <img width="513" alt="Screenshot 2022-07-31 at 01 14 12" src="https://user-images.githubusercontent.com/29555611/182004331-a6d6e59a-9835-4c7b-9471-04e3488e9a5a.png">
 
 > Note: Don't forget to save **passphrase**
+
+<img width="518" alt="Screenshot 2022-07-31 at 01 12 15" src="https://user-images.githubusercontent.com/29555611/182004285-29ca2ef0-37ed-4404-98a4-2f40d7e606a2.png">
+
 
 #### Setup NEAR-CLI
 
